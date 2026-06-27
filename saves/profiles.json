@@ -1,0 +1,26 @@
+[
+  {
+    "username": "guest",
+    "password_hash": "",
+    "label": "游客",
+    "created": "2026-01-01",
+    "last_played": "2026-06-27",
+    "total_play": 13
+  },
+  {
+    "username": "Lkb",
+    "password_hash": "698d51a19d8a121c",
+    "label": "Lkb",
+    "created": "2026-06-19",
+    "last_played": "2026-06-19",
+    "total_play": 8
+  },
+  {
+    "username": "111",
+    "password_hash": "698d51a19d8a121c",
+    "label": "111",
+    "created": "2026-06-19",
+    "last_played": "2026-06-19",
+    "total_play": 1
+  }
+]

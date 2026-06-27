@@ -1,0 +1,215 @@
+{
+  "total_kills": 0,
+  "total_gold": 0,
+  "total_games": 0,
+  "total_wins": 0,
+  "best_score": 0,
+  "best_time": 0,
+  "bosses_defeated": {},
+  "weapons_used": [],
+  "achievements": {},
+  "highest_difficulty": 1,
+  "hub_player_level": 1,
+  "hub_gold": 0,
+  "hub_inventory": [
+    {
+      "id": "health_potion_s",
+      "qty": 3
+    },
+    {
+      "id": "energy_potion",
+      "qty": 2
+    }
+  ],
+  "hub_pet": {
+    "id": "healing_fairy",
+    "level": 1,
+    "exp": 0,
+    "alive": true
+  },
+  "hub_quests": {
+    "quests": [
+      {
+        "id": "kill_soldiers",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "kill_archers",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "kill_mages",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "kill_bosses",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "kill_elites",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "collect_gold",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "collect_potions",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "collect_weapons",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "explore_floors",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "explore_secret",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "main_01",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "side_cat",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "side_recipe",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "side_tome",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "side_arena",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "side_merchant",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "side_ghost",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "side_petmaster",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "side_weaponmaster",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "dungeon_clear_1",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "dungeon_clear_2",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "dungeon_clear_3",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "dungeon_hunt",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "dungeon_boss",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "dungeon_gold",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "dungeon_secret",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      }
+    ],
+    "completed": [],
+    "story_chapter": 0,
+    "dungeon_runs": 0,
+    "daily_date": "2026-06-27",
+    "daily": [
+      {
+        "id": "daily_kill",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "daily_clear",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      },
+      {
+        "id": "daily_gold",
+        "current": 0,
+        "completed": false,
+        "claimed": false
+      }
+    ]
+  },
+  "hub_max_floor": 1
+}

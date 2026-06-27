@@ -1,0 +1,14 @@
+{
+  "sound_enabled": true,
+  "music_enabled": true,
+  "sound_volume": 0.3,
+  "fullscreen": true,
+  "show_fps": true,
+  "language": "zh",
+  "screen_shake": true,
+  "sfx_volume": 80,
+  "music_volume": 60,
+  "particles": true,
+  "show_damage": true,
+  "auto_aim": true
+}
